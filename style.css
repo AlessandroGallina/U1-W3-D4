@@ -1,0 +1,14 @@
+.tabellone {
+    max-width: 780px;
+    margin-inline: auto;
+    background-color: yellow;
+    padding: 20px;
+}
+ .number {
+    width: 10%;
+    text-align: center;
+    background-color: gray;
+    display: inline-block;
+    border: 1px solid transparent;
+    margin: 10px;
+ }
